@@ -1,6 +1,6 @@
-# Industrial-data-analytics
+# Detect Product Faults with a Smart Quality System at Kruse GmbH - Industrial Data Analytics
 
-## Kruse GmbH: Detect Product Faults with a Smart Quality System
+### Problem Statement:
 Kruse GmbH is struggling with increasing quality problems and inefficiencies in maintenance in production of their highest-selling product, the washing machine.The front panels are particularly affected by the quality problems. Embossing with subsequent printing by a stamp results in a reject rate of 5-10%. Another problem is the frequent stoppage of the conveyor belts. This has resulted in a very expensive regular replacement of the bearings.
 
 ### Task: 
